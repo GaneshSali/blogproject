@@ -1,0 +1,19 @@
+
+.posttitle{
+  font-size: 3em;
+  text-align: center;
+}
+
+.postcontent{
+  font-family: 'Montserrat';
+  font-size: 1.5em;
+}
+
+.centerstage{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.blog{
+  margin-top: 20px;
+}
